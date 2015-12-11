@@ -1,0 +1,1 @@
+This is the extension to be installed
